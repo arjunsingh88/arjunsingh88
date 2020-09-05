@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjunsingh88)](https://github.com/arjunsingh88/github-readme-stats)
+[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjunsingh88&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/arjunsingh88/github-readme-stats)
 <!--
 **arjunsingh88/arjunsingh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
