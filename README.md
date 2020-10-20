@@ -26,7 +26,12 @@ I am passionate about how Data and its importance in our life. For me Data scien
 #### Technical stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsingh88&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="arjunsingh88" /></p>
+
+#### Stats
+|Tech|Github|
+|:---:|:---:|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsingh88&hide=javascript,html,css&langs_count=8&layout=compact)](https://github.com/arjunsingh88/github-readme-stats)| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsingh88&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="arjunsingh88" /></p>|
+
 
 <p align="center">
 <a href="https://github.com/arjunsingh88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arjunsingh88" height="30" width="30" /></a>
