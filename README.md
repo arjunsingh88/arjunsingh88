@@ -30,7 +30,9 @@ I am passionate about how Data and its importance in our life. For me Data scien
 #### Stats
 |Tech|Github|
 |:---:|:---:|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsingh88&hide=javascript,html,css&langs_count=8&layout=compact)](https://github.com/arjunsingh88/github-readme-stats)| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsingh88&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="arjunsingh88" /></p>|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsingh88&hide=javascript,html,css&langs_count=8&layout=compact)](https://github.com/arjunsingh88/github-readme-stats)| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsingh88" alt="arjunsingh88" /></p>|
+
+<!--- src="https://github-readme-stats.vercel.app/api?username=arjunsingh88#&bg_color=30,e96443,904e95&title_color=fff&text_color=fff --->
 
 
 <p align="center">
