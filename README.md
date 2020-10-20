@@ -2,7 +2,7 @@
 <h2 align="center">Data Scientist | Data Analyst </h2>
 
 #### Summary
-An Experienced Analyst and data scientist in transition(Pursuing MS in Big Data and Data Science) with ability to deliver valuable insights via analytics and advanced data-driven methods. Well versed in Machine Learning and statistics, development of modelling techniques and optimization of existing processes. I am on constant lookout for challenging and professionally enriching opportunities.
+An Experienced Analyst and data scientist with ability to deliver valuable insights via analytics and advanced data-driven methods. Well versed in Machine Learning and statistics, development of modelling techniques and optimization of existing processes. I am on constant lookout for challenging and professionally enriching opportunities.
 
 I am passionate about how Data and its importance in our life. For me Data science is more than a field of study its a means to understand what's happening in our surrounding and how its affects us, constantly trying to figure out the causation behind the problem and making recommendations backed by learning. I really enjoy study of data i.e. Analysing data, visualising the inferences, playing with the data to extract hidden inferences.
 
