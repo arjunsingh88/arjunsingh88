@@ -2,14 +2,13 @@
 <h2 align="center">Data Scientist | Data Analyst </h2>
 
 #### Summary
-An Experienced Analyst and data scientist with ability to deliver valuable insights via analytics and advanced data-driven methods. Well versed in Machine Learning and statistics, development of modelling techniques and optimization of existing processes. I am on constant lookout for challenging and professionally enriching opportunities.
+A versatile data scientist with **1+ years** of experience optimizing processes and converting complex insights into accessible terms that allow enterprises to achieve a heightened understanding of their customers. Highly adept at harmonizing the vision of stakeholders to implement data-driven transformations within corporate structures. Seeking the next professional challenge that blends **domain knowledge**, **Statistical techniques**, **analytics**, **AI**, with a natural aptitude for connecting with people to enable organizations to thrive in an increasingly data-driven business landscape.
+.
 
 I am passionate about how Data and its importance in our life. For me Data science is more than a field of study its a means to understand what's happening in our surrounding and how its affects us, constantly trying to figure out the causation behind the problem and making recommendations backed by learning. I really enjoy study of data i.e. Analysing data, visualising the inferences, playing with the data to extract hidden inferences.
 
-- 🔭 I’m currently working on **EDA's, to understand and study the behaviour of data**
-
-- 🌱 I’m currently learning **Object detection, sequence modeling**
-
+- 🔭 Currently working on **Outlier**, a clinical study, to understand the behaviour of outliers and how they affect modeling.
+<!---- 🌱 I’m currently learning **Object detection, sequence modeling** --->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/arjunsingh88?tab=repositories)
 
 - 💬 Ask me about **machine learning modeling, EDA**
@@ -19,12 +18,19 @@ I am passionate about how Data and its importance in our life. For me Data scien
 - ⚡ Fun fact **Huge fan of Japanese anime and manga**
 
 #### Skillset:
-* Python: Scikit-learn, Keras, TensorFlow for machine learning and deep learning.
+* Python: Scikit-learn, Scipy, Keras, TensorFlow for machine learning and deep learning.
 * Python: Pandas, Numpy, Scipy for Exploratory data analysis; 
 * Python: Matplotlib, plotly, Seaborn for visualization.
+* Python: Streamlit for prototype applications
 
 #### Technical stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img                                                                                                                             src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/><img
+src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> <img
+src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> <img 
+src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scipy.svg" alt="Scipy" width="40" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img 
+src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </p>
 
 
 #### Stats
@@ -36,9 +42,9 @@ I am passionate about how Data and its importance in our life. For me Data scien
 
 
 <p align="center">
-<a href="https://github.com/arjunsingh88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arjunsingh88" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/arjunsinghk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arjunsinghk" height="30" width="30" /></a>
-<a href="https://kaggle.com/arjunsingh88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="arjunsingh88" height="30" width="30" /></a>
-<a href="https://fb.com/rjunsingh88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rjunsingh88" height="30" width="30" /></a>
-<a href="https://instagram.com/arjunsingh_7979" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arjunsingh_7979" height="30" width="30" /></a>
+<a href="https://github.com/arjunsingh88" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="arjunsingh88" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/arjunsinghk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="arjunsinghk" height="30" width="30" /></a>
+<a href="https://kaggle.com/arjunsingh88" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="arjunsingh88" height="30" width="30" /></a>
+<a href="https://fb.com/rjunsingh88" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="rjunsingh88" height="30" width="30" /></a>
+<a href="https://instagram.com/arjunsingh_7979" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="arjunsingh_7979" height="30" width="30" /></a>
 </p>
