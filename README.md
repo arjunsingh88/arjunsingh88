@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Singh </h1>
 <h2 align="center"> Data Scientist | Machine Learning Specialist | Data Analyst </h2>
-[](https://komarev.com/ghpvc/?username=arjunsingh88&style=flat-square)
+![](https://komarev.com/ghpvc/?username=arjunsingh88)
+
 
 
 #### Summary
