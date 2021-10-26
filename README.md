@@ -9,6 +9,9 @@ A versatile data scientist with **1+ years** of experience optimizing processes 
 
 ![](https://komarev.com/ghpvc/?username=arjunsingh88&style=flat-square)
 
+![Visitor Count](https://profile-counter.glitch.me/arjunsingh88/count.svg)
+
+
 - 🔭 Currently working on **Outlier**, a clinical study, to understand the behaviour of outliers and how they affect modeling.
 <!---- 🌱 I’m currently learning **Object detection, sequence modeling** --->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/arjunsingh88?tab=repositories)
