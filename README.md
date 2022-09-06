@@ -6,8 +6,6 @@
 
 
 
-- 🔭 Currently working on **Outlier**, a clinical study, to understand the behaviour of outliers and how they affect modeling.
-<!---- 🌱 I’m currently learning **Object detection, sequence modeling** --->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/arjunsingh88?tab=repositories)
 
 - 💬 Ask me about **machine learning modeling, EDA**
