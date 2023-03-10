@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Singh </h1>
-<h2 align="center"> Data Scientist | Machine Learning Specialist </h2>
+<h2 align="center"> Data Scientist | Machine Learning/AI Specialist </h2>
 
 ![](https://komarev.com/ghpvc/?username=arjunsingh88&style=flat-square)
 <br>A versatile Data Scientist proficient in **data processing**, **wrangling** and **ML modeling** using **Python** and **SQL**, capped with **1.5+ years** of broad-based experience building algorithmically-driven products. Highly adept at **developing, testing & model deployment** to enable organizations translate data into actionable insights and suite of technological data masterpieces.
