@@ -1,23 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arjun Singh </h1>
-<h2 align="center"> Data Scientist | Machine Learning/AI Specialist </h2>
-
-<br>A versatile Data Scientist proficient in **data processing**, **wrangling** and **ML modeling** using **Python** and **SQL**, capped with **1.5+ years** of broad-based experience building algorithmically-driven products. Highly adept at **developing, testing & model deployment** to enable organizations translate data into actionable insights and suite of technological data masterpieces.
-
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/arjunsingh88?tab=repositories)
-
-- 💬 Ask me about **machine learning modeling, AI, production deployment**
-
-- 📫 How to reach me **arjun.s.0717@gmail.com**
-
-- ⚡ Fun fact **Huge fan of Japanese anime and manga**
-
-#### ML/DL Skillset:
-* ML/DL/AI: Scikit-learn, Scipy, Keras, PyTorch, Transformers for machine learning and deep learning.
-* EDA : Pandas, Numpy, Scipy for Exploratory data analysis; 
-* visualization: Matplotlib, plotly, Seaborn for visualization.
-* Webapp: Streamlit, flaskAPI for prototype applications
-* Deployment: Dockers, GCP container services for deploying in production on cloud
+<h2 align="center">Arjun Singh - Data Scientist | Machine Learning/AI Engineer</h2>
+<p>As a Data Scientist and Machine Learning/AI Engineer, I have over 1.5 years of experience developing, testing, and deploying algorithms to help organizations derive actionable insights from their data. I specialize in data processing, wrangling, and ML modeling using Python and SQL.</p>
+<h3>Technical Skills</h3>
+<ul>
+  <li>Machine Learning/Deep Learning/Artificial Intelligence: Sklearn, Scipy, Keras, PyTorch, and Transformers for ML and DL.</li>
+  <li>Exploratory Data Analysis (EDA): Pandas, Numpy, Scipy</li>
+  <li>Visualization: Matplotlib, plotly, and Seaborn.</li>
+  <li>Web Application Development: Streamlit, Flask API for developing and deploying prototype applications.</li>
+  <li>Deployment: Docker, GCP container services for deploying models in production on cloud</li>
+</ul>
 
 
 #### Technical stack
