@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Singh </h1>
-<h2 align="center">Arjun Singh - Data Scientist | Machine Learning/AI Engineer</h2>
+<h2 align="center">Data Scientist | Machine Learning/AI Engineer</h2>
 <p>As a Data Scientist and Machine Learning/AI Engineer, I have over 1.5 years of experience developing, testing, and deploying algorithms to help organizations derive actionable insights from their data. I specialize in data processing, wrangling, and ML modeling using Python and SQL.</p>
 <h3>Technical Skills</h3>
 <ul>
